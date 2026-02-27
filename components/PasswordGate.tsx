@@ -118,7 +118,7 @@ export function PasswordGate({ children, hasAuth: initialHasAuth }: { children: 
                     </div>
 
                     <div className="text-center space-y-2">
-                        <h2 className="text-2xl font-bold">菲菲公主专属网站/h2>
+                        <h2 className="text-2xl font-bold">菲菲公主专属网站</h2>
                         <p className="text-[var(--text-color-secondary)]">请输入密码</p>
                     </div>
 
