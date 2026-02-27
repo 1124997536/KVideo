@@ -106,7 +106,7 @@ function getDefaultAppSettings(): AppSettings {
     sources: getDefaultSources(),
     premiumSources: getDefaultPremiumSources(),
     subscriptions: getEnvSubscriptions(),
-    sortBy: 'default',
+    sortBy: 'latency-asc',
     searchHistory: true,
     watchHistory: true,
     autoNextEpisode: true,
